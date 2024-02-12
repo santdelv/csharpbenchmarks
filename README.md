@@ -1,1 +1,1 @@
-This is just a sample project demonstrating the usage of [BenchmarkDotNet] (https://github.com/dotnet/BenchmarkDotNet) in this project we compare a couple of list ordering techniques in both .Net 7.0 and .Net 8.0.
+This is just a sample project demonstrating the usage of [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) in this project we compare a couple of list ordering techniques in both .Net 7.0 and .Net 8.0.
